@@ -1,0 +1,21 @@
+Question: Where are the Great Pyramids of Giza located? 
+Option A: Egypt
+Option B: London
+Option C: India
+Option D: Madrid
+Correct Answer: A
+
+Question: Which ancient empire was known for its vast network of roads and aqueducts?
+Option A: Roman
+Option B: Egyptian
+Option C: Assyrian
+Option D: Chinese
+Correct Answer: A
+
+Question:  What year did the Berlin Wall fall, symbolising the end of the Cold War?
+Option A: 1961
+Option B: 1985
+Option C: 1989
+Option D: 1991
+Correct Answer: C
+ 
